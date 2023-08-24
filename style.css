@@ -1,0 +1,60 @@
+body
+{
+background-color: rgb(26, 156, 171);
+}
+
+#credenciais   
+{
+    background-color: rgb(40, 152, 33);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#output
+{
+    background: rgb(30, 30, 30);
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#corpo
+{
+    background: rgb(93, 30, 152);
+}
+#botonn
+{
+    background-color: darkturquoise;
+    border-radius: 10px;
+    height: 45px;
+    width: 85px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(102, 67, 216);
+}
+#player1_name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    color: black;
+}
+#player2_name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    color: black;
+}
+#player1_score{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+#player2_score{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
